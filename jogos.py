@@ -1,5 +1,5 @@
 import forca
-import adivinhacao
+import adivinhacao 
 
 print("*********************************")
 print("Escolha o jogo!")

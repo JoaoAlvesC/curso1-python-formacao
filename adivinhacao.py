@@ -16,7 +16,7 @@ def jogar():
 
     if(dificuldade == 1):
         tentativas = 10
-    elif(dificuldade == 2):
+    elif(dificuldade ==  2):
         tentativas = 5
     else:
         tentativas = 3
